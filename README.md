@@ -14,9 +14,9 @@ Waikiki, Honolulu, and the southwest coast at Ko Olina typically receive a lot o
 - According to the data below, June's average temperature is about 75° F. Minimum and maximum temperatures are 64 and 85 degrees, respectively.
 - Around 71° F is the average temperature for December. Minimum temperature is 56° F and maximum temperature is 83° F.
 
-## June Temps 
+### June Temps 
 
-## December Temps
+### December Temps
 ![image](https://user-images.githubusercontent.com/107198518/184266579-7e5e3410-aa49-4735-8b82-96d2dff60c7f.png)
 
 ### Summary
